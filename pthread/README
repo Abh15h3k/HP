@@ -1,0 +1,7 @@
+to compile:
+g++ -lpthread "file.c"
+
+to run:
+./a.out
+
+note: for thread_priority sudo is needed to run a.out. otherwise thread priority cannot be set

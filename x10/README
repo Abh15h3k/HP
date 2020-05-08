@@ -1,0 +1,5 @@
+to compile:
+run `make`
+
+to run:
+`./pi` or `./vector`

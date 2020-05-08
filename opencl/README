@@ -1,0 +1,5 @@
+Install pyopencl:
+sudo pip install pyopencl
+
+To run:
+python3 "file_name.py"

@@ -1,0 +1,8 @@
+download and install Intel c++ compier from https://dynamicinstaller.intel.com/system-studio
+
+to compile:
+source "path to intel bin"/compilevars.sh intel64
+icc "file.cpp"
+
+to run:
+./a.out
